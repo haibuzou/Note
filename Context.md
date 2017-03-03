@@ -1,0 +1,2 @@
+#Context研究笔记
+android中有一个上帝类掌控着很多开发者经常用到的方法比如findViewById,bulabula
